@@ -85,7 +85,7 @@ flowchart TD
 ### Log In Flow
 
 ``` mermaid
-flowchart TD
+flowchart LR
     A(["Splash Screen"])
     A --> B(["Tap 'Log In'"])
     B --> C(["Log In Screen"])
@@ -113,7 +113,7 @@ flowchart TD
 ### Returning User Flow
 
 ``` mermaid
-flowchart TD
+flowchart LR
     A(["Splash Screen"])
     A --> B(["Tap 'Returning User'"])
     B --> C(["Log In Screen"])
