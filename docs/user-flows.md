@@ -53,11 +53,11 @@ flowchart LR
 ```mermaid
 flowchart TD
     A(["Splash Screen"]) --> B(["Tap 'Register'"])
-    B --> C(["Sign Up Screen (Input: Name, Number [validated with country code +256], Email [must include '@'])"])
-    C --> D(["Create Password Screen (Password: Minimum 4 characters)"])
-    D --> E(["Account Created Successfully Screen (Toggle Newsletter Option)"])
-    E --> F(["Enable Passkeys Screen (Options: Enable or Skip)"])
-    F -- "Tap Enable" --> G(["Passkey Setup Process (See Integrating Passkeys docs)"])
+    B --> C(["Sign Up Screen"])
+    C --> D(["Create Password Screen"])
+    D --> E(["Account Created Successfully"])
+    E --> F(["Enable Passkeys"])
+    F -- "Tap Enable" --> G(["Passkey Setup Process"])
     F -- "Tap Skip" --> H(["Onboarding Carousel"])
     H --> I(["Sponsors Screen"])
 ```
@@ -74,7 +74,7 @@ At the end of the onboarding carousel in the sign up flow, users are directed to
 ``` mermaid
 flowchart TD
     A(["Sponsors Screen"])
-    A --> B(["How Often Do You Save? (Options: Daily, Weekly, Monthly – multiple selections allowed)"])
+    A --> B(["How Often Do You Save?"])
     B --> C(["Tap Continue"])
     C --> D(["How Much Do You Earn per Selected Option"])
     D --> E(["Homescreen"])

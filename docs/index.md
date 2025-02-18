@@ -4,16 +4,16 @@ Material is a design system created by Google to help teams build high-quality d
 
 ## Principles
 
-* Bold, graphic, intentional
+- Bold, graphic, intentional
 The design is guided by print design methods — typography, grids, space, scale, color, and imagery — to create hierarchy, meaning, and focus that immerse viewers in the experience.
 
-* Human
+- Human
 The design is deeply committed to a high standard of accessibility, honesty, and respect for user attention.
 
-* Focused
-The design is aims to deliver what is needed, when its neeedd=ed and why its needed without necessarily destracting the user.
+- Focused
+The design is aims to deliver what is needed, when its needed and why its needed without necessarily destracting the user.
 
-* Motion provides meaning
+- Motion provides meaning
 Motion focuses attention and maintains continuity through subtle feedback and coherent transitions. As elements appear on screen, they transform and reorganize the environment with interactions generating new transformations.
 
 ## Components
@@ -23,6 +23,7 @@ Material Components are interactive building blocks for creating a user interfac
 The documentation defines the qualities that can be expressed by UI regions, surfaces, and components. Design and strategize how your app is built using foundations that address design from both a broad and detailed perspective. 
 
 - User flows
+- Design tokens
 - Color
 - Typography
 - Iconography
