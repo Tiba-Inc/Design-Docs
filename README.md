@@ -6,4 +6,5 @@ The MyPledge design system is built on the following principles:
 - **Consistency** – Maintain uniformity in typography, colors, and component usage.  
 - **Accessibility** – Ensure the app is usable by a diverse range of users.  
 - **Efficiency** – Minimize cognitive load and enhance user productivity.  
-- **Engagement** – Use gamification to drive user interaction.  
+- **Engagement** – Use gamification to drive user interaction. 
+Keeping consistency (test line) 
