@@ -2,14 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-02-18</lastmod>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/accessibility/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/border-radius/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/color/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/content/</loc>
+         <lastmod>2025-02-23</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/design-tokens/</loc>
-         <lastmod>2025-02-18</lastmod>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/elevation/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/iconography/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/layouts/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/motion/</loc>
+         <lastmod>2025-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/typography/</loc>
+         <lastmod>2025-02-23</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/user-flows/</loc>
-         <lastmod>2025-02-18</lastmod>
+         <lastmod>2025-02-23</lastmod>
     </url>
 </urlset>
