@@ -1,7 +1,4 @@
-
-# **Iconography**
-
-## **Overview**
+# Overview
 Icons are a fundamental element of visual communication in user interfaces, providing clear and recognizable representations of actions, concepts, and navigation. In this design system, we standardize the use of **Material Symbols by Google** to ensure consistency, accessibility, and efficiency across all platforms.
 
 This document outlines the principles, usage guidelines, and implementation details for integrating icons effectively into the system.
@@ -44,7 +41,7 @@ For projects using **Expo**, install the dedicated package:
 npm install @expo/vector-icons
 ```
 
-### **Usage Example**
+### **Usage**
 To integrate Material Symbols into a React Native application:
 
 ```jsx

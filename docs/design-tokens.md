@@ -1,6 +1,4 @@
-# Design Tokens
-
-## Introduction
+# Overview
 Design tokens are small, reusable design decisions that make up a design system's visual style. Tokens replace static values with self-explanatory names.
 
 A design token consists of 2 things:
@@ -9,8 +7,7 @@ A design token consists of 2 things:
 
 The token's value can be one of several things: A color, typeface, measurement, or even another token.
 
-!!! info inline end "Learn more"
-
+!!! info "Learn more"
     To learn more about the tokens used in Material design 3, read [here](https://m3.material.io/foundations/design-tokens/overview) 
 
 

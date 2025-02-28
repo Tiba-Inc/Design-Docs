@@ -1,12 +1,11 @@
-# Typography Documentation
-
+# Overview
 Typography is an important part of a design system that brings consistency across experiences and platforms. Good typography rules help present content clearly and efficiently.
 
 ## Introduction
 We use Roboto as the main font for both Android as iOS. It can be downoaded via Google fonts [here.](https://fonts.google.com/specimen/Roboto)
 Material Design defines a **type scale** that maintains consistency across different screen sizes and platforms.
 
----
+
 
 ## Principles
 - **Clarity:** Text should be legible and accessible across all devices.
@@ -14,25 +13,10 @@ Material Design defines a **type scale** that maintains consistency across diffe
 - **Adaptability:** Type scales adjust to different screen sizes.
 - **Expressiveness:** Typography should align with a brand’s personality.
 
----
+
 
 ## Type Scale
 Use the interactive type scale generator below to create typography settings for **Flutter** or **React Native**, while ensuring compatibility with **Material 3 tokens**.
-
-<h2>Type Scale Generator</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Scale Category</th>
-      <th>Typeface</th>
-      <th>Weight</th>
-      <th>Size</th>
-      <th>Case</th>
-      <th>Letter Spacing</th>
-    </tr>
-  </thead>
-  <tbody id="type-scale-table"></tbody>
-</table>
 
 === "Flutter"
 ```dart
@@ -75,7 +59,6 @@ const typography = {
 ### **iOS (points & ems)**
 - Uses **points** for font sizes.
 - Uses **ems** for letter spacing.
-
 
 
 ## Applying the Type Scale
@@ -122,7 +105,7 @@ Our text is classified into various categories based on function and hierarchy:
     text-transform: uppercase;
     ```
 
----
+
 
 ## Dev tools
 Here are some tools to simplify typography management:
