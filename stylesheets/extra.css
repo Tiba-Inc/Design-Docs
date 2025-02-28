@@ -1,3 +1,41 @@
+/* root color configurations */
+:root {
+    --mdl-primary-color: #8a4a65;
+    --mdl-accent-color: #705d0d;
+}
+
+/* Override MDL's built-in classes */
+.mdl-layout__header,
+.mdl-button--raised.mdl-button--colored,
+.mdl-progressbar__buffer,
+.mdl-slider__background-lower {
+    background-color: var(--mdl-primary-color) !important;
+}
+
+.mdl-layout__drawer-button,
+.mdl-checkbox__ripple-container,
+.mdl-radio__ripple-container,
+.mdl-switch__thumb {
+    background-color: var(--mdl-accent-color) !important;
+}
+
+.mdl-button--colored {
+    background-color: var(--mdl-primary-color) !important;
+    border-color: var(--mdl-primary-color) !important;
+}
+
+.mdl-button--accent{
+    background-color: var(--mdl-accent-color) !important;
+    border-color: var(--mdl-accent-color) !important;
+}
+
+.mdl-textfield__input:focus {
+    border-bottom: 1px solid var(--mdl-primary-color) !important;
+}
+
+/* end of customization */
+
+
 .material-symbols-outlined {
     font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
   }
@@ -28,4 +66,12 @@
     width: 50px;
     height: 50px;
     cursor: pointer;
+}
+
+
+/* Color customizations for different ui elemets */
+
+/* Buttons*/
+.mdl-button--raised{
+    border-radius: 6.25rem !important;
 }

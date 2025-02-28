@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/accessibility/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/accessibility/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/border-radius/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/buttons/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/color/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/color/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/content/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/controls/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/design-tokens/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/design-tokens/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/elevation/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/iconography/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/iconography/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/navigation/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/layouts/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/sliders/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/motion/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/textfields/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/typography/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/typography/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/user-flows/</loc>
-         <lastmod>2025-02-23</lastmod>
+         <loc>https://github.com/Tiba-Inc/Design-Docs/user-flows/</loc>
+         <lastmod>2025-02-28</lastmod>
     </url>
 </urlset>
